@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>Sprites/enemy_boss.png</file>
+        <file>Sprites/enemy_laser.png</file>
+        <file>Sprites/enemy_scanner.png</file>
+        <file>Sprites/fighter.png</file>
+        <file>Sprites/greenLaserRay.png</file>
+        <file>Sprites/meteor_large1.png</file>
+        <file>Sprites/player_laser.png</file>
+        <file>Sprites/space_bg.jpg</file>
+    </qresource>
+    <qresource prefix="/sfx">
+        <file>SFX/action_music.wav</file>
+        <file>SFX/player_laser.wav</file>
+        <file>SFX/scanner_blasters.wav</file>
+    </qresource>
+</RCC>
